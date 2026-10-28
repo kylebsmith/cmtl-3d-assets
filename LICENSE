@@ -1,0 +1,30 @@
+CMTL 3D Assets: license
+
+This repository mixes our own work with third-party parts. Each keeps its own license.
+
+1. CMTL originals
+
+   00_design-rules/, 07_hardware/, 08_cutouts/, and the starter-box_* files in
+   09_enclosures/ were made by Kyle Smith for the Creative Music Technology Lab
+   (CMTL) at Georgia Tech. They are licensed under the Creative Commons
+   Attribution 4.0 International License (CC BY 4.0):
+   https://creativecommons.org/licenses/by/4.0/legalcode
+
+   Anything contributed to 10_cmtl-originals/ is shared under the same license
+   by its contributor.
+
+   Credit it as: "CMTL 3D Assets, Creative Music Technology Lab, Georgia Tech".
+
+2. Third-party parts
+
+   Every adafruit_*, espressif_*, and kiswitch_* folder keeps its upstream license.
+   ATTRIBUTION.md lists each one with its source and license, and the full
+   license texts are in LICENSES/:
+
+   - Adafruit parts: MIT (LICENSES/MIT-Adafruit.txt)
+   - Espressif modules: CC BY-SA 4.0 with the KiCad library exception
+     (LICENSES/CC-BY-SA-4.0-Espressif.md)
+   - kiswitch parts: MIT (LICENSES/MIT-kiswitch.txt) or CC BY-SA 4.0
+     (LICENSES/CC-BY-SA-4.0-kiswitch.txt), your choice
+
+Everything here is provided as is, without warranty of any kind.
